@@ -5,9 +5,9 @@ pipeline {
 	}
 	
 	environment {
-		PROJECT_ID = 'jenkins-296812'
+		PROJECT_ID = 'test-monitoring-1-325500'
                 CLUSTER_NAME = 'k8s-cluster'
-                LOCATION = 'us-central1-c'
+                LOCATION = 'asia-northeast3-b'
                 CREDENTIALS_ID = 'kubernetes'		
 	}
 	
